@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+
+# Databricks
+.databricks/
+*.dbc
+
+# dbt
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+dbt/.user.yml
+
+# Datos (nunca subir datos reales al repo)
+data/
+*.csv
+*.parquet
+*.json
+
+# Azure / credenciales
+*.json
+connection_strings.txt
+secrets.txt
+config/local_*.py
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,19 @@
+# Pipeline de datos
+pyspark==3.5.0
+delta-spark==3.0.0
+
+# dbt
+dbt-core==1.7.0
+dbt-spark==1.7.0
+
+# Azure
+azure-storage-file-datalake==12.14.0
+azure-identity==1.15.0
+
+# Utilidades
+python-dotenv==1.0.0
+pandas==2.1.0
+
+# Testing
+pytest==7.4.0
+great-expectations==0.18.0
