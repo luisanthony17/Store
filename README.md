@@ -84,8 +84,9 @@ pip install -r requirements.txt
 
 ## Hallazgos principales
 ## Estado del proyecto
+## Estado del proyecto
 - [x] Bronze — completado (51,290 filas, 4 años, particionado por Year)
-- [ ] Silver — pendiente
+- [x] Silver — completado (51,252 filas, 38 duplicados eliminados, profit_margin agregado)
 - [ ] Gold — pendiente
 - [ ] Power BI — pendiente
 
