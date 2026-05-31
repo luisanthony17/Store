@@ -83,7 +83,11 @@ pip install -r requirements.txt
 ```
 
 ## Hallazgos principales
-> *(Se completará al finalizar el análisis Gold)*
+## Estado del proyecto
+- [x] Bronze — completado (51,290 filas, 4 años, particionado por Year)
+- [ ] Silver — pendiente
+- [ ] Gold — pendiente
+- [ ] Power BI — pendiente
 
 ## Autor
 Tu Nombre — [LinkedIn](#) · [GitHub](#)
