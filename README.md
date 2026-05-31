@@ -82,13 +82,16 @@ pip install -r requirements.txt
 01_ingest_bronze.py   →   02_clean_silver.py   →   dbt run   →   03_metrics_gold.py
 ```
 
-## Hallazgos principales
-## Estado del proyecto
 ## Estado del proyecto
 - [x] Bronze — completado (51,290 filas, 4 años, particionado por Year)
 - [x] Silver — completado (51,252 filas, 38 duplicados eliminados, profit_margin agregado)
-- [ ] Gold — pendiente
+- [x] Gold — completado (métricas por market/category, profit_health clasificado)
 - [ ] Power BI — pendiente
+
+## Hallazgos principales
+- US Furniture es el mercado más crítico: $741K en ventas pero solo 2.47% de margen
+- El descuento promedio de 17.39% en US Furniture está destruyendo el profit
+- Ningún mercado opera en pérdida absoluta, pero 14 de 21 combinaciones están en margen bajo o crítico
 
 ## Autor
 Tu Nombre — [LinkedIn](#) · [GitHub](#)
