@@ -86,12 +86,14 @@ pip install -r requirements.txt
 - [x] Bronze — completado (51,290 filas, 4 años, particionado por Year)
 - [x] Silver — completado (51,252 filas, 38 duplicados eliminados, profit_margin agregado)
 - [x] Gold — completado (métricas por market/category, profit_health clasificado)
-- [ ] Power BI — pendiente
+- [x] Power BI — completado (3 visualizaciones, hallazgos de negocio documentados)
 
 ## Hallazgos principales
 - US Furniture es el mercado más crítico: $741K en ventas pero solo 2.47% de margen
 - El descuento promedio de 17.39% en US Furniture está destruyendo el profit
-- Ningún mercado opera en pérdida absoluta, pero 14 de 21 combinaciones están en margen bajo o crítico
+- A mayor descuento, menor profit margin — relación clara visible en scatter plot
+- 14 de 21 combinaciones mercado/categoría están en margen bajo o crítico<img width="1038" height="584" alt="Screenshot_4" src="https://github.com/user-attachments/assets/61429f64-5909-40aa-93e7-3a88e10af8fb" />
+
 
 ## Autor
 Tu Nombre — [LinkedIn](#) · [GitHub](#)
