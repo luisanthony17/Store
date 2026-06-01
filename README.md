@@ -83,10 +83,13 @@ pip install -r requirements.txt
 ```
 
 ## Estado del proyecto
-- [x] Bronze — completado (51,290 filas, 4 años, particionado por Year)
-- [x] Silver — completado (51,252 filas, 38 duplicados eliminados, profit_margin agregado)
-- [x] Gold — completado (métricas por market/category, profit_health clasificado)
-- [x] Power BI — completado (3 visualizaciones, hallazgos de negocio documentados)
+- [x] Bronze — completado
+- [x] Silver — completado  
+- [x] Gold — completado
+- [x] Power BI — completado
+- [x] Workflows — pipeline orquestado, corre diario 6am, duración 2m 9s
+<img width="629" height="410" alt="Screenshot_6" src="https://github.com/user-attachments/assets/96c29541-328a-463f-9af5-df02ae107e44" />
+
 
 ## Hallazgos principales
 - US Furniture es el mercado más crítico: $741K en ventas pero solo 2.47% de margen
