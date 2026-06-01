@@ -87,7 +87,7 @@ pip install -r requirements.txt
 - [x] Silver — completado  
 - [x] Gold — completado
 - [x] Power BI — completado
-- [x] Workflows — pipeline orquestado, corre diario 6am, duración 2m 9s
+- [x] Workflows — pipeline orquestado, corre diario 6am, duración 2m 9s, alertas configuradas
 <img width="629" height="410" alt="Screenshot_6" src="https://github.com/user-attachments/assets/96c29541-328a-463f-9af5-df02ae107e44" />
 
 
